@@ -1,4 +1,4 @@
-<!-- # [rsschool-cv](https://is-melnikov.github.io/rsschool-cv) -->
+[rsschool-cv](https://is-melnikov.github.io/rsschool-cv)
 # Ivan Melnikov
 
 ## Contact information:
