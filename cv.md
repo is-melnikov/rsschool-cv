@@ -3,8 +3,11 @@
 
 ## Contact information:
 **Phone:** +79879218528
+
 **E-mail:** klubauto.vk@gmail.com
+
 **Telegram:** @smmforever
+
 **Discord:** ivan_melnikov
 
 ## Briefly About Myself:
@@ -26,9 +29,9 @@ Junior Frontend Developer
 1.5 months of commercial development (Liga-A)
 
 **Educational projects:**
-* https://is-melnikov.github.io/fitness
-* https://is-melnikov.github.io/antarctic-cruises
+* [Проект Фитнесс](https://is-melnikov.github.io/fitness)
+* [Проект Круизы Атлатики](https://is-melnikov.github.io/antarctic-cruises)
 
 ## Education:
-*HTML Academy - profession frontend developer
-*RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+* HTML Academy - profession frontend developer
+* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
