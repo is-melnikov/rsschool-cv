@@ -30,7 +30,7 @@ Junior Frontend Developer
 
 **Educational projects:**
 * [Проект Фитнесс](https://is-melnikov.github.io/fitness)
-* [Проект Круизы Атлатики](https://is-melnikov.github.io/antarctic-cruises)
+* [Проект Круизы Атлантики](https://is-melnikov.github.io/antarctic-cruises)
 
 ## Education:
 * HTML Academy - profession frontend developer
