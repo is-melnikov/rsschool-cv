@@ -1,1 +1,1 @@
-# [rsschool-cv](https://is-melnikov.github.io/rsschool-cv/cv)
+# [rsschool-cv](https://is-melnikov.github.io/rsschool-cv/)
