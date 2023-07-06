@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,6 +7,112 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  1
+  <header>
+    <div class="container">
+      <nav class="nav">
+        <ul class="nav__list">
+          <li class="nav__item">
+            <a class="nav__link" href="#about">About</a>
+          </li>
+          <li class="nav__item">
+            <a class="nav__link" href="#contact">Contact info</a>
+          </li>
+          <li class="nav__item">
+            <a class="nav__link" href="#skills">Skills</a>
+          </li>
+          <li class="nav__item">
+            <a class="nav__link" href="#code">Code</a>
+          </li>
+          <li class="nav__item">
+            <a class="nav__link" href="#work-experience">Experience</a>
+          </li>
+          <li class="nav__item">
+            <a class="nav__link" href="#education">Education</a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <main>
+    <div class="container">
+      <section class="profile">
+        <div class="profile__wrapper">
+          <img class="profile__photo" src="pictures/photo.jpg" alt="photo" width="192" height="192">
+        </div>
+        <div class="profile__container">
+          <h1>Ivan Melnikov</h1>
+          <p class="profile__post">Junior Frontend Developer</p>
+        </div>
+      </section>
+      <section id="about">
+        <h2>About me</h2>
+        <p>Novice frontend developer. He graduated from the html Academy courses in 2023. Now I'm doing an internship in the League-A</p>
+      </section>
+      <section class="contact" id="contact">
+        <h2>Contact info</h2>
+        <ul>
+          <li>
+            <span class="contact__key">Telegram:</span>
+            <span>@smmforever</span>
+          </li>
+          <li>
+            <span class="contact__key">E-mail:</span>
+            <a class="contact__link" href="mailto:klubauto.vk@gmail.com">klubauto.vk@gmail.com</a>
+          </li>
+          <li>
+            <span class="contact__key">Discord:</span>
+            <span>ivan_melnikov</span>
+          </li>
+        </ul>
+      </section>
+      <section class="skills" id="skills">
+        <h2>Skills</h2>
+        <ul>
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>JS</li>
+          <li>Git</li>
+          <li>PUG</li>
+          <li>Figma</li>
+        </ul>
+      </section>
+      <section id="code">
+        <h2>Code example</h2>
+          <pre>
+            <code>let sum = (a, b) => a + b; alert(sum(1, 2));</code>
+          </pre>
+      </section>
+      <section id="work-experience">
+        <h2>Work experience</h2>
+        <p>1.5 months of commercial development (Liga-A)</p>
+        <h3>Educational projects:</h3>
+        <ul>
+          <li><a href="https://is-melnikov.github.io/fitness/">Проект Фитнесс</a></li>
+          <li><a href="https://is-melnikov.github.io/antarctic-cruises/">Проект Круизы Атлантики</a></li>
+        </ul>
+      </section>
+      <section id="education">
+        <h2>Education</h2>
+        <ul>
+          <li>HTML Academy - profession frontend developer</li>
+          <li>RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)</li>
+        </ul>
+        <p>English - A1</p>
+      </section>
+    </div>
+  </main>
+  <footer class="footer">
+    <div class="container">
+      <div class="footer__container">
+        <a class="footer__link" href="https://github.com/is-melnikov" aria-label="My GitHub">
+          <img src="pictures/github-logo.svg" alt="logo GitHub" width="32" height="32">
+        </a>
+        <span>2023</span>
+        <a class="footer__link" href="https://rs.school/js/">
+          <img src="pictures/rsschool-logo.svg" alt="logo rsschool" width="86"  height="32">
+        </a>
+      </div>
+    </div>
+  </footer>
 </body>
 </html>
